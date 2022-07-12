@@ -1,0 +1,60 @@
+.mdui-card {
+    border-radius: 12px;
+}
+
+.mdui-dialog {
+    border-radius: 12px;
+}
+
+.mdui-btn-block {
+    border-radius: 12px;
+}
+
+.mdui-btn {
+    border-radius: 12px;
+}
+
+.mdui-video-fluid {
+    border-radius: 12px;
+}
+
+.mdui-menu-open {
+    border-radius: 12px;
+}
+
+.mdui-table-fluid {
+    border-radius: 12px;
+}
+
+.mdui-panel-item {
+    border-radius: 12px;
+}
+
+.mdui-drawer {
+    width: 256px;
+    z-index: 2048;
+    background-color: #fff;
+    box-shadow: -1px 10px 10px 0 rgb(60 64 67/30%), 0 1px 3px 1px rgb(60 64 67/15%);
+}
+
+.mdui-overlay {
+    backdrop-filter: blur(7px);
+}
+
+.mdui-btn,
+.mdui-fab {
+    text-transform: none;
+}
+
+footer {
+    bottom: 0px;
+    width: 100%;
+    padding: 8px;
+    position: fixed;
+    text-align: center;
+    background-color: #fff;
+}
+
+.mdui-card {
+    box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 1px 5px 0 rgb(0 0 0 / 16%);
+}
